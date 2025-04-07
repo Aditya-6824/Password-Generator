@@ -16,8 +16,6 @@ A sleek and secure password generator built with **JavaScript, HTML, and CSS**. 
 3. Click **"Generate Passwords"**  
 4. Copy your secure password and use it anywhere!  
 
-## 📸 Preview  
-![Password Generator Preview](./images/preview.png) *(Replace with actual screenshot or GIF)*  
 
 ## 🛠️ Technologies Used  
 - **HTML** – Structuring the app  
